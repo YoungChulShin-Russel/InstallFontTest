@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:InstallFontTest.Assets.ResourceDictionary">
+
+    <FontFamily x:Key="NanumBarunGothicTTF">나눔바른고딕</FontFamily>
+    <FontFamily x:Key="NanumBarunGothicLightTTF">나눔바른고딕 가늘게</FontFamily>
+
+</ResourceDictionary>

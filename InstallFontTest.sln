@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallFontTest", "InstallFontTest\InstallFontTest.csproj", "{C7673516-387D-488C-A019-8F812ED22FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7673516-387D-488C-A019-8F812ED22FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7673516-387D-488C-A019-8F812ED22FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7673516-387D-488C-A019-8F812ED22FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7673516-387D-488C-A019-8F812ED22FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC3EB51C-E721-4979-94CB-01ECA2F69D44}
+	EndGlobalSection
+EndGlobal
